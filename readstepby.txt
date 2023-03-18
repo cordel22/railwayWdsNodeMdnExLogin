@@ -37,7 +37,9 @@ npm i bcrypt
 
 neskor
 
-npm i passport passport-local
+npm i passport passport-local express-session express-flash
+
+npm i method-override
 
 
 zober package.json z mdn miesto npm init
